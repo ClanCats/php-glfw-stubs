@@ -1,0 +1,1 @@
+# php-glfw-stubs
